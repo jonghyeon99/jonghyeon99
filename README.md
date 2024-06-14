@@ -67,3 +67,5 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/twjh99coding@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![JongHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyeon99&show_icons=true&theme=radical)
