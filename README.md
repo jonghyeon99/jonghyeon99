@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/airflow-#017CEE.svg?style=for-the-badge&logo=airflow&logoColor=red" />&nbsp
+  <img src="https://img.shields.io/badge/airflow-017CEE.svg?style=for-the-badge&logo=airflow&logoColor=red" />&nbsp
 </div>
 
 <br>
