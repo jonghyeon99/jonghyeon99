@@ -62,11 +62,12 @@ Here are some ideas to get you started:
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:twjh99coding@gmail.com">
-    <img
-      src="https://img.shields.io/badge/twjh99coding@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/twjh99coding@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
 <br>
 
   ![JongHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyeon99&show_icons=true&theme=tokyonight)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyeon99&layout=donut)](https://github.com/jonghyeon99/github-readme-stats)
