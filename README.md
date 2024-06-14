@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 --><!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&text=Date%20Enginner%20Student&fontAlign=50&stroke=white" />
-<!--   https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Data Enginner Student&fontSize=90 -->
 </div>
 
 <!--내용 부분-->
