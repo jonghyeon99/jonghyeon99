@@ -67,4 +67,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![JongHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyeon99&show_icons=true&theme=tokyonight)
+<br>
+
+<div align="center">
+  ![JongHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyeon99&show_icons=true&theme=tokyonight)
+</div>
+
