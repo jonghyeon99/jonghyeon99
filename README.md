@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&text=Data%20Enginner%20Student&fontAlign=50&stroke=white" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&text=Data%20Engineer%20Student&fontAlign=50&stroke=white" />
 </div>
 
 <!--내용 부분-->
