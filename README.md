@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logoColor=5382a1" />&nbsp
+  <img src="https://img.shields.io/badge/java-5382a1?style=for-the-badge&logo=java&logoColor=f89820" />&nbsp
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=F29111" />&nbsp
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
